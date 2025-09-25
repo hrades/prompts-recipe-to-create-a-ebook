@@ -44,11 +44,13 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
-Midjourney：
+Gemini：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+|  Capa  | Ilustração para a capa do ebook 'APIdex: Seu Guia Completo de FastAPI e Python'. A imagem deve ter um estilo que misture elementos de tecnologia moderna com o universo Pokémon. No centro, um personagem jovem (estilo treinador Pokémon) está segurando um tablet ou um dispositivo futurista que exibe um diagrama de API com linhas de código Python. Ao redor do personagem, elementos que remetem ao FastAPI, como um ícone estilizado que sugira velocidade ou um relâmpago, e símbolos de Python (a cobra) de forma sutil e integrada ao design.
+
+Para a temática Pokémon, inclua algumas criaturas no estilo 'pixel art' ou 'low poly' que representem diferentes tipos de APIs (por exemplo, um monstrinho que pareça robusto para uma API RESTful, outro que seja ágil para uma API em tempo real). O fundo pode ser um cenário digitalizado, como uma cidade futurista com linhas de código flutuando no ar, ou um laboratório de alta tecnologia. As cores devem ser vibrantes, com predominância de azuis, verdes e tons neon, remetendo tanto ao digital quanto ao energético mundo Pokémon. O objetivo é transmitir modernidade, conhecimento, diversão e a promessa de um guia completo para dominar o FastAPI |
 
 ## ✨ Features
 
