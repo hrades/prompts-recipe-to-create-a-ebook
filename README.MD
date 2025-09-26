@@ -41,7 +41,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema de fastAPI com python, o ebook é de nicho de programação e o subnicho é de python. O título deve ser criativo e curto, e ter uma temática de pokemón. Me liste 10 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| conteúdo | Faça um texto para ebook , com foco em fastAPI com python, descrevendo a ferramenta, as principais funcionalidades, como utilizar, mostrando exemplos. Adicione uma seção final só para códigos explicados {REGRAS} Explique sempre de uma maneira simples de entender, Sempre traga exemplos de código em contextos reais |
 
 
 Gemini：
