@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/APIdex Seu guia completo de FastAPI e Python - capa.png"
     width="400"  
 />
 </p>
